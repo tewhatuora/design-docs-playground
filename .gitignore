@@ -1,0 +1,25 @@
+# IDE and editor
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.factorypath
+.settings/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# mkdocs and generated content
+.cache/
+public/
+site/
+
+# Python
+*.pyc
+**/__pycache__/
+
+# Javascript / Typescript
+node_modules

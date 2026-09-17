@@ -1,0 +1,13 @@
+[project]
+name = "dap-standards-template" # <- EDIT
+version = "0.1.0"
+description = "Health New Zealand Standards Template" # <- EDIT
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mkdocs>=1.6.1",
+    "mkdocs-glightbox>=0.5.2",
+    "mkdocs-include-markdown-plugin>=7.3.0",
+    "mkdocs-material>=9.7.7",
+    "mkdocs-mermaid-to-svg>=1.3.0",
+]
