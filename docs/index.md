@@ -2,7 +2,7 @@
 last_edited: 2026-09-09
 ---
 
-Welcome to your new documentation site.
+Welcome to your new documentation site. This is the first demo edit.
 
 {%
     include-markdown "../README.md"
