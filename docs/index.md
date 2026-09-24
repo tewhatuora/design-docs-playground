@@ -25,5 +25,5 @@ You should see a diagram rendered below. If not, some extras haven't been instal
 
 ```mermaid
 flowchart TD
-	A[One potato] --> B[Two potato]
+	A[One potato] --> B[Two potato] --> B[Three potato]
 ```
