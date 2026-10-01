@@ -8,7 +8,7 @@ last_edited: 2026-09-09
     end="<!--include-end-->"
 %}
 
-🚧 Work in progress. We're trialling the standards on live projects and improving them through feedback with a focus on workforce-facing products and applications.
+🚧 Work in progress. We're trialling the standards on live projects and improving them through feedback with a focus on workforce-facing apps.
 
 ## Purpose
 
