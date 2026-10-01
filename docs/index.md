@@ -16,7 +16,7 @@ These design principles and standards guide how digital products and services ar
 
 It partners with the [Engineering Standards](https://engineering-standards.digital.health.nz/).
 
-Every standard is published in two formats: **human-readable** for people, and **machine-readable** so AI tools can apply it too.
+Every standard is published in two formats: **human-readable** for people, and **machine-readable** for AI tools.
 
 ## Key terms
 
