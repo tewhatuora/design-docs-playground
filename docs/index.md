@@ -19,6 +19,8 @@ Welcome to your new documentation site. This is the first demo edit.
 
 - [markdown reference](https://www.markdownguide.org/basic-syntax/)
 
+## new section
+
 ## Mermaid Check
 
 You should see a diagram rendered below. If not, some extras haven't been installed properly.
