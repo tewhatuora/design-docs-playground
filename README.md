@@ -2,8 +2,6 @@
 
 # Health New Zealand Design Standards
 
-Once a repository has been created from this template, replace these contents with specific information about your project.
-
 <!--include-end-->
 
 This `README.md` file is used as a landing page for a Gitlab or Github repository. 
