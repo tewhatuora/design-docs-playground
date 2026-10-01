@@ -12,13 +12,13 @@ last_edited: 2026-09-09
 
 ## Purpose
 
-The Design Playbook helps teams build digital products that work well for the people who use them. It sets out shared principles and standards for usability, accessibility, content and brand, to lift the quality and consistency of Health NZ's digital experiences. 
+These design principles and standards guide how digital products and services are designed for Health New Zealand, so they're consistent, easy to use and meet the needs of the people who use them. Our initial focus is usability, accessibility and branding for workforce-facing products.
 
 It partners with the [Engineering Standards](https://engineering-standards.digital.health.nz/).
 
 Every standard is published in two formats: **human-readable** for people, and **machine-readable** so AI tools can apply it too.
 
-## How it's organised
+## Key terms
 
 - **Principles** express the values that guide our design efforts and explain why those values matter.
 - **Standards** apply principles through specific, verifiable expectations.
@@ -35,9 +35,9 @@ For existing projects and services, these principles and standards provide an im
 Teams delivering new projects and services are expected to adopt these principles and standards from the outset, using them to guide how their projects and services are designed, built, and operated.
 
 ## Key contacts, questions or feedback
-**Digital Health Strategy and Design**<br>
-- Rosie Percival, Senior UX Design<br>
-- Duncan Gibb, Lead Service Design
+**Digital Health Strategy and Design**
+-  Rosie Percival, Senior UX Design <br>
+-  Duncan Gibb, Lead Service Design
 
 <hr>
 
