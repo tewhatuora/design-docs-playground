@@ -12,7 +12,7 @@ _🚧 Work in progress. We're trialling the standards on live projects and impro
 _
 ## Purpose
 
-These design principles and standards guide how digital products and services are designed for Health New Zealand, so they're consistent, easy to use and meet the needs of the people who use them. Our initial focus is usability, accessibility and branding for workforce-facing products.
+These design principles and standards guide how digital products and services are designed for Health New Zealand, so they're consistent, easy to use and meet the needs of the people who use them. Our initial focus is branding, accessibility and usability for workforce-facing products.
 
 It partners with the [Engineering Standards](https://engineering-standards.digital.health.nz/).
 
