@@ -30,7 +30,9 @@ Anyone who designs, builds or makes decisions about Health NZ digital products, 
 
 ## Adoption expectations
 
-...
+For existing projects and services, these principles and standards provide an improvement roadmap rather than a compliance threshold that must be met immediately. Teams should assess their current alignment, prioritise gaps based on risk and value, and make progress toward meeting the standards.
+
+Teams delivering new projects and services are expected to adopt these principles and standards from the outset, using them to guide how their projects and services are designed, built, and operated.
 
 ## Key contacts, questions or feedback
 **Digital Health Strategy and Design**<br>
