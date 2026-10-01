@@ -1,6 +1,6 @@
 <!--include-start-->
 
-# Health New Zealand Design Standards Template
+# Health New Zealand Design Standards
 
 Once a repository has been created from this template, replace these contents with specific information about your project.
 
