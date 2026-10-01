@@ -30,7 +30,7 @@ Anyone who designs, builds or makes decisions about Health NZ digital products, 
 
 ## Adoption expectations
 
-Anyone who designs, builds or makes decisions about Health NZ digital products, including vendors and contractors.
+...
 
 ## Key contacts, questions or feedback
 **Digital Health Strategy and Design**<br>
