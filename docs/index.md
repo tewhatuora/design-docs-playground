@@ -21,9 +21,9 @@ Audience here
 Audience here
 
 ## Key contacts, questions or feedback
-**Digital Health Strategy and Design**
-Rosie Percival, Senior UX Design
-Duncan Gibb, Lead Service Design
+- **Digital Health Strategy and Design**
+- Rosie Percival, Senior UX Design
+- Duncan Gibb, Lead Service Design
 
 
 
