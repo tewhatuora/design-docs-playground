@@ -8,8 +8,8 @@ last_edited: 2026-09-09
     end="<!--include-end-->"
 %}
 
-_🚧 Work in progress. We're trialling the standards on live projects and improving them through feedback with a focus on workforce-facing apps.
-_
+🚧 Work in progress. We're trialling the standards on live projects and improving them through feedback with a focus on workforce-facing apps.
+
 ## Purpose
 
 These design principles and standards guide how digital products and services are designed for Health New Zealand, so they're consistent, easy to use and meet the needs of the people who use them. Our initial focus is branding, accessibility and usability for workforce-facing products.
