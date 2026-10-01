@@ -34,10 +34,11 @@ For existing projects and services, these principles and standards provide an im
 
 Teams delivering new projects and services are expected to adopt these principles and standards from the outset, using them to guide how their projects and services are designed, built, and operated.
 
-## Key contacts, questions or feedback
-**Digital Health Strategy and Design**
--  Rosie Percival, Senior UX Design <br>
--  Duncan Gibb, Lead Service Design
+
+## Questions and feedback?
+
+- **Rosie Percival** Senior UX Design
+- **Duncan Gibb** Lead Service Design
 
 <hr>
 
