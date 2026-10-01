@@ -8,17 +8,21 @@ last_edited: 2026-09-09
     end="<!--include-end-->"
 %}
 
-🚧 Work in progress. We're trialling the standards on live projects and improving them through feedback. Expect regular updates.
+🚧 Work in progress. We're trialling the standards on live projects and improving them through feedback with a focus on workforce-facing products and applications.
 
 ## Purpose
 
-The Design Playbook supports teams to design digital products that work well for the people using them, and helps lift the quality of Health NZ's digital experiences. It works alongside the Engineering Standards, with a current focus on workforce-facing products and applications.
+The Design Playbook helps teams build digital products that work well for the people who use them. It sets out shared principles and standards for usability, accessibility, content and brand, to lift the quality and consistency of Health NZ's digital experiences. 
 
-Every standard is human-readable for people and machine-readable for AI tools.
-<br>
-- Principles express the values that guide our design efforts and explain why those values matter.
-- Standards apply principles through specific, verifiable expectations.
-- Guidance documents a process that helps a team meet the standards in its context.
+It partners with the [Engineering Standards](https://engineering-standards.digital.health.nz/).
+
+Every standard is published in two formats: **human-readable** for people, and **machine-readable** so AI tools can apply it too.
+
+## How it's organised
+
+- **Principles** express the values that guide our design efforts and explain why those values matter.
+- **Standards** apply principles through specific, verifiable expectations.
+- **Guidance** documents a process that helps a team meet the standards in its context.
 
 ## Audience
 
