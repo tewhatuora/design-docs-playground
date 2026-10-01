@@ -21,11 +21,11 @@ Audience here
 Audience here
 
 ## Key contacts, questions or feedback
-- **Digital Health Strategy and Design**
-- Rosie Percival, Senior UX Design
+**Digital Health Strategy and Design**<br>
+- Rosie Percival, Senior UX Design<br>
 - Duncan Gibb, Lead Service Design
 
-
+<hr>
 
 ## Tools
 
@@ -36,13 +36,3 @@ Audience here
 
 - [markdown reference](https://www.markdownguide.org/basic-syntax/)
 
-## new section
-
-## Mermaid Check
-
-You should see a diagram rendered below. If not, some extras haven't been installed properly.
-
-```mermaid
-flowchart TD
-	A[One potato] --> B[Two potato] --> B[Three potato]
-```
