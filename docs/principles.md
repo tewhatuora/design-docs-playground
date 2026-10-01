@@ -46,4 +46,4 @@ Integrate with other services and channels so users can easily find, understand 
 
 ## Attribution
 
-These principles are reproduced from the [proposed principles of the Digital Service Design Standard](https://www.digital.govt.nz/standards-and-guidance/digital-service-design-standard/proposed-principles), © Crown copyright, [Digital.govt.nz](https://www.digital.govt.nz/), licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). We've included the nine principles most relevant to experience design. The proposed principles are in draft and may change.
+These principles are reproduced from the [proposed principles of the Digital Service Design Standard](https://www.digital.govt.nz/standards-and-guidance/digital-service-design-standard/proposed-principles). We've included 9 of 12 principles most relevant to experience design. The proposed principles are in draft and may change.
