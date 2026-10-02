@@ -1,3 +1,4 @@
+---
 name: greyscale-research-mode.
 description: >
   Convert a built application into a black, white and greyscale research
