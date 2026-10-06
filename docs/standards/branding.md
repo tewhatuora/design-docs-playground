@@ -7,7 +7,8 @@ These guidelines are for anyone building or changing a workforce app, including 
 
 Key contact: Rosie Percival, UX Design, Digital Health Strategy and Design.
 
-[View the full Workforce apps brand guide](https://marvel-steep-70131762.figma.site/#access)
+[View the full Workforce apps brand guide]([https://marvel-steep-70131762.figma.site/#access](https://www.figma.com/make/UhNGqaKyEqqXzzFeqruUX5/Workforce-app-branding-guide?t=V3GGBuMyQrLHK2cG-0)
+password: design1234
 
 
 NB: For all branding related to communications, campaigns and public-facing content, please refer to the [Health NZ brand and style guides](https://hauoraaotearoa.sharepoint.com/sites/bu-BGS/SitePages/Our-Brand-and-Style.aspx) on Te Haerenga
