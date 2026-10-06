@@ -1,26 +1,16 @@
-@font-face {
-  font-family: "Poppins";
-  src: url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900");
-}
-
-@font-face {
-  font-family: "Roboto";
-  src: url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900");
-}
-
-
 body {
   --md-text-font-family: "Public Sans",-apple-system,BlinkMacSystemFont,"Ubuntu","Roboto","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
   --site-content-font-size: 0.64rem;
 }
 
 [data-md-color-scheme="default"] {
-  --hnz-main-hue:               207deg;
-  --md-primary-fg-color:        hsl(var(--hnz-main-hue), 100%, 27%);
-  --md-default-fg-color:        var(--md-primary-fg-color);
-  --md-footer-bg-color:         rgb(4, 24, 54);
-  --site-content-color:         var(--md-primary-fg-color);
-  --site-heading-color:         var(--md-primary-fg-color);
+  --hnz-main-hue:          207deg;
+  --md-primary-fg-color:   hsl(var(--hnz-main-hue), 100%, 27%); /* keeps blue for links and accents */
+  --md-default-bg-color:   #FAFAF7;  /* slightly off-white; use #FFFFFF for pure white */
+  --md-default-fg-color:   #000000;
+  --md-footer-bg-color:    rgb(4, 24, 54);
+  --site-content-color:    #000000;
+  --site-heading-color:    #000000;
 }
 
 [data-md-color-scheme="slate"] {
@@ -28,8 +18,8 @@ body {
   --md-primary-fg-color:        hsl(var(--hnz-main-hue), 30%, 70%);
   --md-default-fg-color:        var(--md-primary-fg-color);
   --md-footer-bg-color:         rgb(4, 24, 54);
-  --md-accent-fg-color:          hsl(var(--hnz-main-hue), 70%, 50%);
-  --site-content-color:         hsl(2005, 56%, 90%);
+  --md-accent-fg-color:         hsl(var(--hnz-main-hue), 70%, 50%);
+  --site-content-color:         hsl(205, 56%, 90%);
   --site-heading-color:         hsl(190, 56%, 64%);
 }
 
@@ -44,18 +34,17 @@ body {
 }
 
 .md-content {
-    color: var(--md-primary-fg-color);
+  color: var(--site-content-color);
 }
 
 .md-content a {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .md-typeset h1, .md-typeset h2, .md-typeset h3 {
   color: var(--site-heading-color);
   font-weight: 700;
   line-height: 1.25;
-
 }
 
 @media screen and (min-width: 60em) {
