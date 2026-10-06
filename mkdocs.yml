@@ -1,4 +1,4 @@
-site_name: Health New Zealand Standards Template # <- EDIT
+site_name: Health New Zealand Design Standards # <- EDIT
 site_url: https://documentation.example.com/ # <- EDIT
 copyright: Copyright &copy; 2026 Health New Zealand.
 extra:
@@ -27,7 +27,7 @@ theme:
   logo: assets/two.svg
   favicon: assets/favicon-32x32.png
   font:
-    code: Poppins
+    code: Public Sans
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
