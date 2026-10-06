@@ -6,7 +6,7 @@ body {
 [data-md-color-scheme="default"] {
   --hnz-main-hue:          207deg;
   --md-primary-fg-color:   hsl(var(--hnz-main-hue), 100%, 27%); /* keeps blue for links and accents */
-  --md-default-bg-color:   #FAFAF7;  /* slightly off-white; use #FFFFFF for pure white */
+  --md-default-bg-color:   #FFFFFF;
   --md-default-fg-color:   #000000;
   --md-footer-bg-color:    rgb(4, 24, 54);
   --site-content-color:    #000000;
