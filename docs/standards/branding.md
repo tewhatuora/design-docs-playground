@@ -10,4 +10,4 @@ Key contact: Rosie Percival, UX Design, Digital Health Strategy and Design.
 [View the full Workforce apps brand guide](https://marvel-steep-70131762.figma.site/#access)
 
 
-NB: For all branding related to communications, campaigns and public-facing content, please refer to the [Health NZ brand and style guidance on Te Haerenga](https://hauoraaotearoa.sharepoint.com/sites/bu-BGS/SitePages/Our-Brand-and-Style.aspx) 
+NB: For all branding related to communications, campaigns and public-facing content, please refer to the [Health NZ brand and style guides](https://hauoraaotearoa.sharepoint.com/sites/bu-BGS/SitePages/Our-Brand-and-Style.aspx) Te Haerenga
