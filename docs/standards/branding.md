@@ -7,7 +7,7 @@ These guidelines are for anyone building or changing a workforce app, including 
 
 Key contact: Rosie Percival, UX Design, Digital Health Strategy and Design.
 
-[View the full Workforce apps brand guide]([https://marvel-steep-70131762.figma.site/#access](https://www.figma.com/make/UhNGqaKyEqqXzzFeqruUX5/Workforce-app-branding-guide?t=V3GGBuMyQrLHK2cG-0)
+[View the full Workforce apps brand guide](https://www.figma.com/make/UhNGqaKyEqqXzzFeqruUX5/Workforce-app-branding-guide?t=V3GGBuMyQrLHK2cG-0)
 password: design1234
 
 
