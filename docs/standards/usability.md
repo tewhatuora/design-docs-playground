@@ -8,9 +8,7 @@ description: The Health NZ usability standards, set out in the order you do the 
 > **Work in progress**
 > We're working with the Health NZ Standards team on how to apply the ISO 9241 international usability standards. 
 
-These standards are for anyone delivering a digital product or service at Health NZ. Use them to plan, run and report a usability test before go-live.
-
-**Usability** is the extent to which a system, product or service can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use. In other words:
+**Usability** is the extent to which a system, product or service can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use. 
 
 | Measure | Question | How we measure it |
 |---|---|---|
@@ -32,7 +30,7 @@ Usability is affected by:
 2. Test the **tasks people do most often** and the **tasks that must go right**.
 3. Write each task as a **real situation** that doesn't give away the answer.
 4. Report results against your **[success criteria](#1-decide-what-to-test)**.
-5. **Fix** anything that misses a target before go-live, or **record why not**.
+5. **Fix** anything anything critical before go-live, or **record why not**.
 
 ---
 
