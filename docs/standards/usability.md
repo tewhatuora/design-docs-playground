@@ -20,8 +20,8 @@ description: The Health NZ usability standards, set out in the order you do the 
 ## About Usability
 
 Usability is the extent to which a system, product or service can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use (ISO 9241-11).
-Usability is affected by:
 
+Usability is affected by:
 - **the users:** who they are
 - **their goals:** what they're trying to do
 - **their situation:** where and how they use it ("context of use")
@@ -30,8 +30,8 @@ We can measure usability in three ways:
 
 | Measure | Question | How we measure it | Example of what good looks like |
 |---|---|---|---|
-| Effectiveness | **Can people complete tasks correctly?** | Task completion and accuracy | Most people (80% or more) complete top tasks without help |
-| Efficiency | **How much time and effort does it take?** | Time on task, number of clicks, effort (ease rating) | Most people rate it easy, and tasks take no more than about twice the time or clicks of an experienced user |
+| Effectiveness | **Can people complete tasks correctly?** | Task completion and accuracy | Most people (80% or more) complete top tasks |
+| Efficiency | **How much time and effort does it take?** | Time on task, number of clicks, effort (ease rating) | Most people rate it easy, and tasks take no more than about twice the time of an experienced user |
 | Satisfaction | **Does it meet people’s needs and expectations?** | Satisfaction rating | Most people are satisfied (average rating of 3 or above out of 5) |
 
 ---
