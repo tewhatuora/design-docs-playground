@@ -114,42 +114,57 @@ The standards are grouped into five stages:
 > **To be confirmed.** This section is a work in progress. We're reviewing how feedback is actioned, including feedback added directly to prototypes.
 
 ---
-
+ 
 ## Create or update a test script with AI
-
+ 
 Copy a prompt into Copilot or another AI tool. If your tool can't open web pages, paste this page's content into the chat as well. Always check the output against stage 3 before you use it.
-
+ 
 **Create a new test script**
-
+ 
 ```text
 Create a short usability test script that meets the Health NZ Usability Standards:
 https://tewhatuora.github.io/design-docs-playground/standards/usability/
-
+ 
 Product: [name and one-line description]
 Users: [for example case managers, team leaders]
 What it replaces (if anything): [for example old system, spreadsheet, paper form]
 Tasks people do most often: [list]
 Critical tasks: [list]
 How it will run: [with a facilitator / people on their own]
-
-Follow stage 3, and show which parts are must and which are should. Give me a
-script a facilitator can read from and a simple note-taking sheet. Keep it concise
-and use plain New Zealand English. Mark anything you don't know as [TO CONFIRM].
+ 
+Follow stage 3. Start each part of the script with a tag showing its level and
+standard number, for example [MUST 3.1] or [SHOULD 3.5]. Give me a script a
+facilitator can read from and a simple note-taking sheet. Keep it concise and use
+plain New Zealand English. Show every rating scale as a numbered list, one
+option per line (1 at the top, 5 at the bottom). Mark anything you don't know as
+[TO CONFIRM].
 ```
-
+ 
 **Update an existing test script** (attach your script)
-
+ 
 ```text
 Check the attached usability test script against stage 3 of the Health NZ
 Usability Standards:
 https://tewhatuora.github.io/design-docs-playground/standards/usability/
-
-Add anything missing, keep everything else as it is, and list what you changed.
+ 
+Keep the original wording wherever it already meets the standards. Tag each change
+with its level and standard number:
+ 
+- [ADDED - MUST 3.7]: something that was missing
+- [UPDATED - SHOULD 3.5]: something that was there but didn't meet the standard,
+  for example an ease question without the 5-point scale. Show the original
+  underneath as "Was: ..."
+ 
+Show every rating scale as a numbered list, one option per line (1 at the top,
+5 at the bottom). If a scale is written across the page, reformat it and tag it
+[UPDATED].
+ 
+Don't change anything else. At the end, list your changes in a table:
+Change | Added or updated | Standard | MUST or SHOULD.
 Mark anything you don't know as [TO CONFIRM].
 ```
-
+ 
 ---
-
 ## References
 
 - ISO 9241-11:2018: Usability: Definitions and concepts
