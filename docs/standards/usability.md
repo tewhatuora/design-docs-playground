@@ -1,6 +1,6 @@
 ---
 title: Usability standards
-description: Health NZ usability standards, set out in the order you do the work. Includes the questions to ask and AI prompts to create or update a usability test script.
+description: The Health NZ usability standards, set out in the order you do the work. Includes the questions to ask and AI prompts to create or update a usability test script.
 ---
 
 # Usability standards
@@ -48,6 +48,16 @@ Usability is affected by:
 ---
 
 ## The standards
+
+The standards are grouped into five stages, in the order you do the work:
+
+1. **[Decide what to test](#1-decide-what-to-test)**: who will use it, where, which tasks, and what success looks like
+2. **[Set up the test](#2-set-up-the-test)**: recruit participants, write the scenarios and prepare test data
+3. **[Run the test](#3-run-the-test-your-test-script)**: your test script, from consent to the final questions
+4. **[Report results](#4-report-results)**: to be confirmed
+5. **[Act on feedback](#5-act-on-feedback)**: to be confirmed
+
+Each standard is numbered by its stage, for example 2.4 is the fourth standard in stage 2.
 
 **MUST** = required. **SHOULD** = expected unless you have a good reason not to.
 
@@ -113,7 +123,7 @@ On every rating scale, **1 = bad and 5 = good**.
 
 ## Create or update a test script with AI
 
-Copy a prompt into Copilot or another AI tool and attach this page. Always check the output before you use it.
+Copy a prompt into Copilot or another AI tool. The prompts link to this page, so the AI tool can read the standards. If your tool can't open web pages, copy and paste this page's content into the chat with the prompt. Always check the output before you use it.
 
 The script follows stage 3, using your tasks from 1.3 and scenarios from 2.4.
 
@@ -121,7 +131,8 @@ The script follows stage 3, using your tasks from 1.3 and scenarios from 2.4.
 <summary><strong>Option A: Create a new test script</strong></summary>
 
 ```text
-Create a usability testing script that meets the Health NZ Usability Standards (attached).
+Create a usability testing script that meets the Health NZ Usability Standards:
+https://tewhatuora.github.io/design-docs-playground/standards/usability/
 
 About the product:
 - Product or service: [name and one-line description]
@@ -166,11 +177,12 @@ C) A list of [TO CONFIRM] items.
 <details>
 <summary><strong>Option B: Update an existing test script</strong></summary>
 
-Attach your existing script as well as this page.
+Attach your existing script to the chat with the prompt.
 
 ```text
 Update the attached usability testing script so it meets the Health NZ Usability
-Standards (attached).
+Standards:
+https://tewhatuora.github.io/design-docs-playground/standards/usability/
 
 Rules:
 1. Keep the original goals, product context and tasks unless they break the standards.
@@ -206,7 +218,5 @@ C) A list of [TO CONFIRM] items.
 
 - ISO 9241-11:2018: Usability: Definitions and concepts
 - ISO 9241-210:2019: Human-centred design for interactive systems
-- [ISO Online Browsing Platform](https://www.iso.org/obp/ui/): view the official ISO 9241-11 contents and terms for free
-- Health NZ Accessibility Guidelines
 
 **Need help?** Contact the Digital Health Strategy & Design team.
