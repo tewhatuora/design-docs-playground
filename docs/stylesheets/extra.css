@@ -103,8 +103,8 @@ body {
   color: #595959;
 }
 
-/* Table text the same size as body copy.
-   Material makes table text smaller (0.64rem, about 12.8px) by default. */
+/* Table text slightly smaller than body copy (about 14px).
+   Material's default is 0.64rem (about 12.8px), which is too small. */
 .md-typeset table:not([class]) {
-  font-size: inherit;
+  font-size: 0.7rem;
 }
