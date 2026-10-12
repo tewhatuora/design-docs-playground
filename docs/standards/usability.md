@@ -115,19 +115,22 @@ The standards are grouped into five stages:
 > **To be confirmed.** This section is a work in progress. We're reviewing how feedback is actioned, including feedback added directly to prototypes.
 
 
-
-
----
+-
  
 ## Create or update a test script with AI
  
 Copy a prompt into Copilot or another AI tool. If your tool can't open web pages, paste this page's content into the chat as well. Always check the output against stage 3 before you use it.
+ 
+These standards are updated from time to time. If you've used the prompts before, copy them again from this page, and start a new chat so the AI reads the latest version.
  
 **Create a new test script**
  
 ```text
 Create a short usability test script that meets the Health NZ Usability Standards:
 https://raw.githubusercontent.com/tewhatuora/design-docs-playground/main/docs/standards/usability.md
+ 
+Read the latest version of the standards from this link first. They may have changed
+since you last looked, so don't rely on an earlier copy.
  
 Product: [name and one-line description]
 Users: [for example case managers, team leaders]
@@ -149,6 +152,11 @@ Use these stage 3 standards and levels exactly. Don't guess or renumber them:
 3.9 Comparison question, at the end, if it replaces something (SHOULD)
 3.10 Wrap up and thank them (SHOULD)
  
+Use every question and rating scale from the standards word for word, including
+the warm-up questions, experience scale and frequency scale in 3.2. Only replace
+text in [square brackets], for example [the product or service]. Don't make up
+your own questions or scales.
+ 
 Follow stage 3. Start each part of the script with a tag showing its level and
 standard number, for example [MUST 3.1] or [SHOULD 3.5]. Give me a script a
 facilitator can read from and a simple note-taking sheet. Keep it concise and use
@@ -164,6 +172,9 @@ Check the attached usability test script against stage 3 of the Health NZ
 Usability Standards:
 https://raw.githubusercontent.com/tewhatuora/design-docs-playground/main/docs/standards/usability.md
  
+Read the latest version of the standards from this link first. They may have changed
+since you last looked, so don't rely on an earlier copy.
+ 
 Use these stage 3 standards and levels exactly. Don't guess or renumber them:
 3.1 Consent (MUST)
 3.2 Warm-up questions (SHOULD)
@@ -176,6 +187,11 @@ Use these stage 3 standards and levels exactly. Don't guess or renumber them:
 3.8 Satisfaction question, at the end (MUST)
 3.9 Comparison question, at the end, if it replaces something (SHOULD)
 3.10 Wrap up and thank them (SHOULD)
+ 
+Use every question and rating scale from the standards word for word, including
+the warm-up questions, experience scale and frequency scale in 3.2. Only replace
+text in [square brackets], for example [the product or service]. Don't make up
+your own questions or scales.
  
 Start the updated script with this note:
 "This script has been reviewed against the Health NZ Usability Standards. All
@@ -202,6 +218,9 @@ Mark anything you don't know as [TO CONFIRM].
 ```
  
 ---
+
+
+
 
 ## References
 
