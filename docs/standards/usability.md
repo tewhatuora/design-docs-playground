@@ -55,7 +55,7 @@ The standards are grouped into five stages, in the order you do the work:
 4. **[Report results](#4-report-results)**: to be confirmed
 5. **[Act on feedback](#5-act-on-feedback)**: to be confirmed
 
-On every rating scale, **1 = bad and 5 = good**.
+On every rating scale, 1 = bad and 5 = good.
 
 ### 1. Decide what to test
 
