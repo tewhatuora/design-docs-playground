@@ -95,3 +95,16 @@ body {
   max-width: 100% !important;
   max-height: 75vh !important;
 }
+
+/* Note blocks (markdown "> ..." blockquotes), for example "Work in progress".
+   Material's default grey is too light, so use dark grey for better contrast.
+   Light mode only: #595959 would be hard to read on the dark background. */
+[data-md-color-scheme="default"] .md-typeset blockquote {
+  color: #595959;
+}
+
+/* Table text the same size as body copy.
+   Material makes table text smaller (0.64rem, about 12.8px) by default. */
+.md-typeset table:not([class]) {
+  font-size: inherit;
+}
