@@ -12,9 +12,9 @@ description: The Health NZ usability standards, set out in the order you do the 
 
 | Measure | Question | How we measure it | Example of what good looks like |
 |---|---|---|---|
-| Effectiveness | **Can people do it?** | Task completion and accuracy | At least 70% of people complete top tasks on their own and correctly. |
-| Efficiency | **How much effort does it take?** | Time on task, number of clicks, effort (ease rating) | An average ease rating of 3 or above for top tasks, and/or no slower (in clicks or time) than what people use now. |
-| Satisfaction | **How does it feel?** | Satisfaction rating | An average satisfaction rating of 3 or above, and/or no worse than what people use now. |
+| Effectiveness | **Can people complete tasks correctly?** | Task completion and accuracy | At least 70% of people complete top tasks on their own and correctly. |
+| Efficiency | **How much time and effort does it take?** | Time on task, number of clicks, effort (ease rating) | An average ease rating of 3 or above for top tasks, and/or no slower (in clicks or time) than what people use now. |
+| Satisfaction | **Does it meet people’s needs and expectations?** | Satisfaction rating | An average satisfaction rating of 3 or above, and/or no worse than what people use now. |
 
 Usability is affected by:
 
