@@ -115,23 +115,35 @@ The standards are grouped into five stages:
 > **To be confirmed.** This section is a work in progress. We're reviewing how feedback is actioned, including feedback added directly to prototypes.
 
 
--
+---
  
 ## Create or update a test script with AI
  
-Copy a prompt into Copilot or another AI tool. If your tool can't open web pages, paste this page's content into the chat as well. Always check the output against stage 3 before you use it.
+Copy a prompt into Copilot or another AI tool. **Start a new chat each time**, so it doesn't use an older version of the standards.
  
-These standards are updated from time to time. If you've used the prompts before, copy them again from this page, and start a new chat so the AI reads the latest version.
+If the AI says it can't open the link, open the [standards file](https://raw.githubusercontent.com/tewhatuora/design-docs-playground/main/docs/standards/usability.md), copy everything, and paste it into the chat.
+ 
+Check the list of stage 3 standards the AI gives you against this page before you go on. Always check the final script against stage 3 before you use it.
  
 **Create a new test script**
  
 ```text
-Create a short usability test script that meets the Health NZ Usability Standards:
+Create a short usability test script using the Health NZ Usability Standards.
+ 
+Step 1: Read the standards
+Open this link and read it:
 https://raw.githubusercontent.com/tewhatuora/design-docs-playground/main/docs/standards/usability.md
  
-Read the latest version of the standards from this link first. They may have changed
-since you last looked, so don't rely on an earlier copy.
+This link is the only source of truth. Don't use earlier versions from this chat,
+your memory or any other source.
  
+If you can't open the link, stop and tell me. Don't continue until I paste the
+standards into the chat.
+ 
+Once you've read it, list the stage 3 standards with their numbers and levels
+(MUST or SHOULD), so I can check you have the latest version.
+ 
+Step 2: Write the script
 Product: [name and one-line description]
 Users: [for example case managers, team leaders]
 What it replaces (if anything): [for example old system, spreadsheet, paper form]
@@ -139,82 +151,67 @@ Tasks people do most often: [list]
 Critical tasks: [list]
 How it will run: [with a facilitator / people on their own]
  
-Use these stage 3 standards and levels exactly. Don't guess or renumber them:
-3.1 Consent (MUST)
-3.2 Warm-up questions (SHOULD)
-3.3 Record task completion: pass, pass with help or fail (MUST)
-3.4 Record time and clicks (SHOULD)
-3.5 Ease question straight after a task, only for tasks you want to know more
-    about, such as critical tasks (SHOULD)
-3.6 "Why did you give that rating?" (SHOULD)
-3.7 Overall ease question, once at the end of all tasks (MUST)
-3.8 Satisfaction question, at the end (MUST)
-3.9 Comparison question, at the end, if it replaces something (SHOULD)
-3.10 Wrap up and thank them (SHOULD)
+Rules:
+- Follow stage 3, in order.
+- Start each standard's section with one tag showing its level and number,
+  for example [MUST 3.1] or [SHOULD 3.5].
+- Use every question and rating scale from the standards word for word. Only
+  replace text in [square brackets]. Don't make up your own questions or scales.
+- Show every rating scale as a numbered list, one option per line, indented
+  under its question.
+- Use plain New Zealand English and keep it concise.
+- Mark anything you don't know as [TO CONFIRM].
  
-Use every question and rating scale from the standards word for word, including
-the warm-up questions, experience scale and frequency scale in 3.2. Only replace
-text in [square brackets], for example [the product or service]. Don't make up
-your own questions or scales.
- 
-Follow stage 3. Start each part of the script with a tag showing its level and
-standard number, for example [MUST 3.1] or [SHOULD 3.5]. Give me a script a
-facilitator can read from and a simple note-taking sheet. Keep it concise and use
-plain New Zealand English. Show every rating scale as a numbered list, one
-option per line (1 at the top, 5 at the bottom). Mark anything you don't know as
-[TO CONFIRM].
+Give me a script a facilitator can read from and a simple note-taking sheet.
 ```
  
 **Update an existing test script** (attach your script)
  
 ```text
-Check the attached usability test script against stage 3 of the Health NZ
-Usability Standards:
+Update the attached usability test script using the Health NZ Usability Standards.
+ 
+Step 1: Read the standards
+Open this link and read it:
 https://raw.githubusercontent.com/tewhatuora/design-docs-playground/main/docs/standards/usability.md
  
-Read the latest version of the standards from this link first. They may have changed
-since you last looked, so don't rely on an earlier copy.
+This link is the only source of truth. Don't use earlier versions from this chat,
+your memory or any other source.
  
-Use these stage 3 standards and levels exactly. Don't guess or renumber them:
-3.1 Consent (MUST)
-3.2 Warm-up questions (SHOULD)
-3.3 Record task completion: pass, pass with help or fail (MUST)
-3.4 Record time and clicks (SHOULD)
-3.5 Ease question straight after a task, only for tasks you want to know more
-    about, such as critical tasks (SHOULD)
-3.6 "Why did you give that rating?" (SHOULD)
-3.7 Overall ease question, once at the end of all tasks (MUST)
-3.8 Satisfaction question, at the end (MUST)
-3.9 Comparison question, at the end, if it replaces something (SHOULD)
-3.10 Wrap up and thank them (SHOULD)
+If you can't open the link, stop and tell me. Don't continue until I paste the
+standards into the chat.
  
-Use every question and rating scale from the standards word for word, including
-the warm-up questions, experience scale and frequency scale in 3.2. Only replace
-text in [square brackets], for example [the product or service]. Don't make up
-your own questions or scales.
+Once you've read it, list the stage 3 standards with their numbers and levels
+(MUST or SHOULD), so I can check you have the latest version.
  
+Step 2: Update the script
 Start the updated script with this note:
 "This script has been reviewed against the Health NZ Usability Standards. All
-changes are in bold and tagged. Original content hasn't been changed and is in
-its original formatting."
+changes are in bold. Original content hasn't been changed and is in its original
+formatting."
  
-Keep the original wording and formatting wherever it already meets the standards.
-Put every change in bold, and tag it with its level and standard number:
+Rules:
+- Keep the original wording and formatting wherever it already meets the
+  standards. Don't change anything else.
+- Put every change in bold.
+- Tag each change once, at the start, with whether it was added or updated, its
+  level and its number, for example [ADDED - MUST 3.8] or [UPDATED - SHOULD 3.5].
+  If a change covers several lines for the same standard, tag it once, not on
+  every line.
+- Added means something was missing. Updated means it was there but didn't meet
+  the standard, for example a question without the 5-point scale. Under an
+  update, show the original as "Was: ...".
+- Use every question and rating scale from the standards word for word. Only
+  replace text in [square brackets]. Don't make up your own questions or scales.
+- Show every rating scale as a numbered list, one option per line, indented
+  under its question. If a scale is written across the page, reformat it as an
+  update.
+- Mark anything you don't know as [TO CONFIRM].
  
-- [ADDED - MUST 3.8]: something that was missing
-- [UPDATED - SHOULD 3.5]: something that was there but didn't meet the standard,
-  for example an ease question without the 5-point scale. Show the original
-  underneath as "Was: ..."
- 
-Show every rating scale as a numbered list, one option per line (1 at the top,
-5 at the bottom). If a scale is written across the page, reformat it and tag it
-[UPDATED].
- 
-Don't change anything else. At the end, list your changes in a table:
+Step 3: Summarise the changes
+At the end, list your changes in a table:
 Change | Added or updated | Standard | MUST or SHOULD | Why
 In the Why column, explain in one short, plain sentence why the change helps,
 for example "A consistent scale means results can be compared across tests."
-Mark anything you don't know as [TO CONFIRM].
 ```
  
 ---
