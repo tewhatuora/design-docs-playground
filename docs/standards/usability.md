@@ -22,6 +22,7 @@ description: The Health NZ usability standards, set out in the order you do the 
 Usability is the extent to which a system, product or service can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use (ISO 9241-11).
 
 Usability is affected by:
+
 - **the users:** who they are
 - **their goals:** what they're trying to do
 - **their situation:** where and how they use it ("context of use")
@@ -38,7 +39,7 @@ We can measure usability in three ways:
 
 ## Before you start
 
-**This page covers usability testing.** It’s a **validation** method: checking that your design works (the **solution space**). It doesn’t cover discovery research, which is about understanding people’s needs before you design (the problem space).
+**This page covers usability testing.** It’s a **validation** method: checking that your design works (the solution space). It doesn’t cover discovery research, which is about understanding people’s needs before you design (the problem space).
 
 ### Ways to run the test
 
