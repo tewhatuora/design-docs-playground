@@ -5,8 +5,8 @@ description: The Health NZ usability standards, set out in the order you do the 
 
 # Usability standards
 
-> **About this page**
-> We're working with the Health NZ Standards team on how to apply the ISO 9241 international usability standards. Work in progress.
+> **Work in progress**
+> We're working with the Health NZ Standards team on how to apply the ISO 9241 international usability standards. 
 
 These standards are for anyone delivering a digital product or service at Health NZ. Use them to plan, run and report a usability test before go-live.
 
