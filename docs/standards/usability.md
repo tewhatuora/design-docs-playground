@@ -116,6 +116,7 @@ The standards are grouped into five stages:
 
 
 
+
 ---
  
 ## Create or update a test script with AI
@@ -126,7 +127,7 @@ Copy a prompt into Copilot or another AI tool. If your tool can't open web pages
  
 ```text
 Create a short usability test script that meets the Health NZ Usability Standards:
-https://tewhatuora.github.io/design-docs-playground/standards/usability/
+https://raw.githubusercontent.com/tewhatuora/design-docs-playground/main/docs/standards/usability.md
  
 Product: [name and one-line description]
 Users: [for example case managers, team leaders]
@@ -134,6 +135,19 @@ What it replaces (if anything): [for example old system, spreadsheet, paper form
 Tasks people do most often: [list]
 Critical tasks: [list]
 How it will run: [with a facilitator / people on their own]
+ 
+Use these stage 3 standards and levels exactly. Don't guess or renumber them:
+3.1 Consent (MUST)
+3.2 Warm-up questions (SHOULD)
+3.3 Record task completion: pass, pass with help or fail (MUST)
+3.4 Record time and clicks (SHOULD)
+3.5 Ease question straight after a task, only for tasks you want to know more
+    about, such as critical tasks (SHOULD)
+3.6 "Why did you give that rating?" (SHOULD)
+3.7 Overall ease question, once at the end of all tasks (MUST)
+3.8 Satisfaction question, at the end (MUST)
+3.9 Comparison question, at the end, if it replaces something (SHOULD)
+3.10 Wrap up and thank them (SHOULD)
  
 Follow stage 3. Start each part of the script with a tag showing its level and
 standard number, for example [MUST 3.1] or [SHOULD 3.5]. Give me a script a
@@ -148,7 +162,20 @@ option per line (1 at the top, 5 at the bottom). Mark anything you don't know as
 ```text
 Check the attached usability test script against stage 3 of the Health NZ
 Usability Standards:
-https://tewhatuora.github.io/design-docs-playground/standards/usability/
+https://raw.githubusercontent.com/tewhatuora/design-docs-playground/main/docs/standards/usability.md
+ 
+Use these stage 3 standards and levels exactly. Don't guess or renumber them:
+3.1 Consent (MUST)
+3.2 Warm-up questions (SHOULD)
+3.3 Record task completion: pass, pass with help or fail (MUST)
+3.4 Record time and clicks (SHOULD)
+3.5 Ease question straight after a task, only for tasks you want to know more
+    about, such as critical tasks (SHOULD)
+3.6 "Why did you give that rating?" (SHOULD)
+3.7 Overall ease question, once at the end of all tasks (MUST)
+3.8 Satisfaction question, at the end (MUST)
+3.9 Comparison question, at the end, if it replaces something (SHOULD)
+3.10 Wrap up and thank them (SHOULD)
  
 Start the updated script with this note:
 "This script has been reviewed against the Health NZ Usability Standards. All
@@ -158,7 +185,7 @@ its original formatting."
 Keep the original wording and formatting wherever it already meets the standards.
 Put every change in bold, and tag it with its level and standard number:
  
-- [ADDED - MUST 3.7]: something that was missing
+- [ADDED - MUST 3.8]: something that was missing
 - [UPDATED - SHOULD 3.5]: something that was there but didn't meet the standard,
   for example an ease question without the 5-point scale. Show the original
   underneath as "Was: ..."
@@ -175,7 +202,6 @@ Mark anything you don't know as [TO CONFIRM].
 ```
  
 ---
-
 
 ## References
 
