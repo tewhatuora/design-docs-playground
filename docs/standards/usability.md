@@ -34,19 +34,6 @@ Usability is affected by:
 
 ---
 
-## Key terms
-
-| Term | What it means |
-|---|---|
-| **End user** | The person who will actually use the product day to day. |
-| **Participant** | An end user who takes part in a test. |
-| **Subject matter expert** | Someone with deep knowledge of the work or process. They may not be an end user. |
-| **Facilitator** | The person running the test session. |
-| **Critical task** | A task where a mistake could cause harm or serious problems, even if people rarely do it. For example, escalating a high-risk case or recording a medication. |
-| **Top tasks** | The small set of tasks that matter most to the people using the product: the tasks they do most often, and the critical tasks. |
-
----
-
 ## The standards
 
 The standards are grouped into five stages, in the order you do the work:
@@ -55,7 +42,7 @@ The standards are grouped into five stages, in the order you do the work:
 2. **[Set up the test](#2-set-up-the-test)**: recruit participants, write the scenarios and prepare test data
 3. **[Run the test](#3-run-the-test-your-test-script)**: your test script, from consent to the final questions
 4. **[Report results](#4-report-results)**: check your results against your success criteria
-5. **[Act on feedback](#5-act-on-feedback)**: to be confirmed
+5. **[Act on feedback](#5-act-on-feedback)**: To be confirmed - WIP
 
 On every rating scale, 1 = bad and 5 = good.
 
