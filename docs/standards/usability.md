@@ -111,13 +111,6 @@ On every rating scale, **1 = bad and 5 = good**.
 
 > **To be confirmed.** This section is a work in progress. We're reviewing how feedback is actioned, including feedback added directly to prototypes.
 
-| # | Standard | Level |
-|---|---|---|
-| 5.1 | Before go-live, **fix anything that doesn't meet the success targets**. | MUST |
-| 5.2 | For any failure on a **task that must go right**, record the decision: fix before go-live, or the reason it doesn't need fixing. Record it wherever your team tracks work, for example the backlog. | MUST |
-| 5.3 | For every problem, decide **how to address it**: fix in the product, training and guidance, communications, or a combination. Training supports a good design; it doesn't replace one. If people need training for a task they do every day, it's usually a design problem. | MUST |
-| 5.4 | Share findings with **whoever is responsible for training and communications** (for example, the change and training team). Include tasks new users struggled with, words people didn't understand, what's different from the old system, and what people liked. | MUST |
-| 5.5 | Add all other problems to the **backlog, with an owner**. | SHOULD |
 
 ---
 
