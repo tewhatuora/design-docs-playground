@@ -55,10 +55,6 @@ The standards are grouped into five stages, in the order you do the work:
 4. **[Report results](#4-report-results)**: to be confirmed
 5. **[Act on feedback](#5-act-on-feedback)**: to be confirmed
 
-Each standard is numbered by its stage, for example 2.4 is the fourth standard in stage 2.
-
-**MUST** = required. **SHOULD** = expected unless you have a good reason not to.
-
 On every rating scale, **1 = bad and 5 = good**.
 
 ### 1. Decide what to test
