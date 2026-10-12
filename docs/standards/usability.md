@@ -15,8 +15,11 @@ description: The Health NZ usability standards, set out in the order you do the 
 3. Give them realistic scenarios to work through.
 4. Share what you find with the team, so they can decide what to fix and what to do next.
 
-**Usability** is the extent to which a system, product or service can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use (ISO 9241-11).
+---
 
+##About Usability
+
+Usability is the extent to which a system, product or service can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use (ISO 9241-11).
 Usability is affected by:
 
 - **the users:** who they are
