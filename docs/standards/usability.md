@@ -113,6 +113,8 @@ The standards are grouped into five stages:
 
 > **To be confirmed.** This section is a work in progress. We're reviewing how feedback is actioned, including feedback added directly to prototypes.
 
+
+
 ---
  
 ## Create or update a test script with AI
@@ -147,8 +149,13 @@ Check the attached usability test script against stage 3 of the Health NZ
 Usability Standards:
 https://tewhatuora.github.io/design-docs-playground/standards/usability/
  
-Keep the original wording wherever it already meets the standards. Tag each change
-with its level and standard number:
+Start the updated script with this note:
+"This script has been reviewed against the Health NZ Usability Standards. All
+changes are in bold and tagged. Original content hasn't been changed and is in
+its original formatting."
+ 
+Keep the original wording and formatting wherever it already meets the standards.
+Put every change in bold, and tag it with its level and standard number:
  
 - [ADDED - MUST 3.7]: something that was missing
 - [UPDATED - SHOULD 3.5]: something that was there but didn't meet the standard,
@@ -160,11 +167,15 @@ Show every rating scale as a numbered list, one option per line (1 at the top,
 [UPDATED].
  
 Don't change anything else. At the end, list your changes in a table:
-Change | Added or updated | Standard | MUST or SHOULD.
+Change | Added or updated | Standard | MUST or SHOULD | Why
+In the Why column, explain in one short, plain sentence why the change helps,
+for example "A consistent scale means results can be compared across tests."
 Mark anything you don't know as [TO CONFIRM].
 ```
  
 ---
+
+
 ## References
 
 - ISO 9241-11:2018: Usability: Definitions and concepts
