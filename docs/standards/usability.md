@@ -1,5 +1,5 @@
 ---
-title: Usability standards
+title: Usability
 description: The Health NZ usability standards, set out in the order you do the work. Includes the questions to ask and AI prompts to create or update a usability test script.
 ---
 
