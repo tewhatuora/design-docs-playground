@@ -15,7 +15,8 @@ These standards help teams assess usability consistently. They provide a common 
 
 This page covers usability testing. It is a validation method used to assess whether a design works for its intended users. It does not cover discovery research, which is about understanding people's needs before designing a solution.
 
-Supporting research and testing templates including recruitment, participant communications, consent, scheduling and reimbursement, are covered separately in the Digital Health Strategy & Design research templates on SharePoint.[View the research templates](https://hauoraaotearoa.sharepoint.com/:f:/r/sites/1001713/Design%20artefacts/01_Templates/Research%20templates?d=wc42a8c91a82b4961bd84d0104967d7d4&csf=1&web=)
+Supporting research and testing templates including recruitment, participant communications, consent, scheduling and reimbursement, are covered separately in the Digital Health Strategy & Design research templates on SharePoint. 
+[View the research templates](https://hauoraaotearoa.sharepoint.com/:f:/r/sites/1001713/Design%20artefacts/01_Templates/Research%20templates?d=wc42a8c91a82b4961bd84d0104967d7d4&csf=1&web=)
 
 
 ## The basics
