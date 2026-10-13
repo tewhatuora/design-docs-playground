@@ -31,7 +31,7 @@ We can measure usability in three ways:
 
 | Measure | Question | How we measure it | Example of what good looks like |
 |---|---|---|---|
-| Effectiveness | **Can people complete tasks correctly?** | Task completion and accuracy | Most people (80% or more) complete top tasks |
+| Effectiveness | **Can people complete tasks correctly?** | Task completion and accuracy | Most people (80% or more) complete tasks |
 | Efficiency | **How much time and effort does it take?** | Time on task, number of clicks, effort (ease rating) | Most people rate it easy, and tasks take no more than about twice the time of an experienced user |
 | Satisfaction | **Does it meet people’s needs and expectations?** | Satisfaction rating | Most people are satisfied (average rating of 3 or above out of 5) |
 
