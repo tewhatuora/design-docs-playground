@@ -116,12 +116,7 @@ The standards are grouped into five stages:
 |---|---|---|
 | 4.1 | **Check your results against your success criteria** (1.5). For each task and rating, say whether it met the criteria. Report counts alongside percentages, for example 4 of 5 (80%), because the numbers are small. | MUST |
 | 4.2 | Make sure **all feedback is recorded and available to act on**, including people's reasons in their own words (3.6). Share it with the project team, and with the change and training team for anything that affects training or rollout. | MUST |
-| 4.3 | Report results separately for:
-• task completion
-• ease ratings
-• satisfaction ratings
-• comparison ratings (if used)
-• participant comments and observations | SHOULD |
+| 4.3 | Report the results for task completion, ease ratings, satisfaction ratings, comparison ratings (if used), and participant comments and observations. | SHOULD |
 | 4.4 | Report the participant mix, including role types and any experience or frequency ratings collected in 3.2. | SHOULD |
 
 ### 5. Act on feedback
