@@ -124,7 +124,7 @@ The standards are grouped into five stages:
 
 | # | Standard | Level |
 |---|---|---|
-| 5.1 | Review findings with the project team and agree what will be fixed before go-live. | MUST |
+| 5.1 | Review findings with the project team and agree what will be fixed. | MUST |
 | 5.2 | Record decisions for issues that won't be fixed, including any known risks. | SHOULD |
 | 5.3 | Share findings that affect training, support material or rollout activities with the appropriate teams. | SHOULD |
 
