@@ -121,6 +121,8 @@ The standards are grouped into five stages:
 
 ### 5. Act on feedback
 
+| # | Standard | Level |
+|---|---|---|
 | 5.1 | Review findings with the project team and agree what will be fixed before go-live. | MUST |
 
 
