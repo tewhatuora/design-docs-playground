@@ -43,7 +43,7 @@ We can measure usability in three ways:
 
 ### Scope of these standards
 
-These standards provide a consistent way to plan, measure, report and act on usability testing findings.
+These standards provide a consistent way to measure, report and act on usability testing findings.
 
 They do not cover supporting research activities, such as recruitment, participant communications, consent, scheduling and reimbursement. These  are covered separately in the Digital Health Strategy & Design research templates on SharePoint.
 [View the research templates](https://hauoraaotearoa.sharepoint.com/:f:/r/sites/1001713/Design%20artefacts/01_Templates/Research%20templates?d=wc42a8c91a82b4961bd84d0104967d7d4&csf=1&web=)
@@ -70,7 +70,7 @@ The standards are grouped into five stages:
 
 | # | Standard | Level |
 |---|---|---|
-| 1.1 | Identify **who will use it** (the real users), for example identify specific role types or job titles. | MUST |
+| 1.1 | Identify **who will use it** (the real users). Use specific role names, job titles or user groups where possible. | MUST |
 | 1.2 | Describe **where they'll use it**, for example in the office, remotely, in front of consumers, on a laptop. | SHOULD |
 | 1.3 | List the top tasks to test:<br>• the **tasks people do most often** (high frequency), for example logging in, finding a case or adding a case note<br>• the **critical tasks**, where a mistake could cause harm or serious problems, even if they're not high frequency, for example escalating a high-risk case | MUST |
 | 1.4 | If it **replaces a system or process**, note what people use now, for example one or more old systems, a spreadsheet or a paper form. | SHOULD |
@@ -116,10 +116,17 @@ The standards are grouped into five stages:
 |---|---|---|
 | 4.1 | **Check your results against your success criteria** (1.5). For each task and rating, say whether it met the criteria. Report counts alongside percentages, for example 4 of 5 (80%), because the numbers are small. | MUST |
 | 4.2 | Make sure **all feedback is recorded and available to act on**, including people's reasons in their own words (3.6). Share it with the project team, and with the change and training team for anything that affects training or rollout. | MUST |
+| 4.3 | Report results separately for:
+• task completion
+• ease ratings
+• satisfaction ratings
+• comparison ratings (if used)
+• participant comments and observations | SHOULD |
+| 4.4 | Report the participant mix, including role types and any experience or frequency ratings collected in 3.2. | SHOULD |
 
 ### 5. Act on feedback
 
-> **To be confirmed.** This section is a work in progress. We're reviewing how feedback is actioned, including feedback added directly to prototypes.
+| 5.1 | Review findings with the project team and agree what will be fixed before go-live. | MUST |
 
 
 ---
