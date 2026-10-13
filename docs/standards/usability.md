@@ -43,7 +43,8 @@ We can measure usability in three ways:
 
 ### Scope of these standards
 
-These standards describe how to plan, run, measure and report usability testing. They do not cover recruitment, participant communications, privacy processes, consent forms, incentives, scheduling, research governance or other research administration activities. They are covered separately in the Digital Health Strategy and Design Research Templates on Sharepoint  [View the research templates](https://hauoraaotearoa.sharepoint.com/:f:/r/sites/1001713/Design%20artefacts/01_Templates/Research%20templates?d=wc42a8c91a82b4961bd84d0104967d7d4&csf=1&web=
+These standards describe how to plan, run, measure and report usability testing. They do not cover recruitment, participant communications, privacy processes, consent forms, incentives, scheduling, research governance or other research administration activities. They are covered separately in the Digital Health Strategy and Design Research Templates on Sharepoint
+[View the research templates](https://hauoraaotearoa.sharepoint.com/:f:/r/sites/1001713/Design%20artefacts/01_Templates/Research%20templates?d=wc42a8c91a82b4961bd84d0104967d7d4&csf=1&web=)
 
 ### Ways to run the test
 
