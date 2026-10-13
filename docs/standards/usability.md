@@ -21,10 +21,10 @@ Supporting research and testing templates including recruitment, participant com
 
 ## The basics
 
-1. Decide what you want to learn and what good looks like, before you start.
-2. Test with real users.
-3. Give them realistic scenarios to work through.
-4. Share what you find with the team, so they can decide what to fix and what to do next.
+1. Decide what you want to learn and what good looks like.
+2. Test with real users using realistic scenarios.
+3. Compare the results against your success criteria.
+4. Share findings and any recommendations to inform decisions.
 
 ---
 
