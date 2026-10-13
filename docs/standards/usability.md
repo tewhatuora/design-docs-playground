@@ -74,7 +74,7 @@ The standards are grouped into five stages:
 | 1.4 | If it **replaces a system or process**, note what people use now, for example one or more old systems, a spreadsheet or a paper form. | SHOULD |
 | 1.5 | **Define success criteria** for the tasks and ratings. For example:<br>• at least 80% of participants complete top tasks without help<br>• an average satisfaction rating of 3 or above | MUST |
 | 1.6 | Plan to test **before go-live**. | MUST |
-| 1.7 | Plan a separate walkthrough with **managers and/or subject matter experts**. Their views add to testing with real users; they don't replace it. A subject matter expert who uses the product can take part as a real user. | SHOULD |
+| 1.7 | Plan a separate walkthrough with **managers and/or subject matter experts**. Their views add to testing with real users; they don't replace it. A subject matter expert who uses the product can take part as a real user. | COULD |
 
 ### 2. Set up the test
 
