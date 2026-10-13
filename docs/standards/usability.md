@@ -24,7 +24,7 @@ Supporting research and testing templates including recruitment, participant com
 1. Decide what you want to learn and what good looks like.
 2. Test with real users using realistic scenarios.
 3. Compare the results against your success criteria.
-4. Share findings and any recommendations to inform decisions.
+4. Share findings and any recommendations.
 
 ---
 
