@@ -43,9 +43,7 @@ We can measure usability in three ways:
 
 ### Scope of these standards
 
-These standards provide a consistent way to measure, report and act on usability testing findings.
-
-They do not cover supporting research activities, such as recruitment, participant communications, consent, scheduling and reimbursement. These  are covered separately in the Digital Health Strategy & Design research templates on SharePoint.
+These standards provide a consistent way to assess, measure, report and act on usability findings. They do not cover supporting research activities, such as recruitment, participant communications, consent, scheduling and reimbursement. These are covered separately in the Digital Health Strategy & Design research templates on SharePoint.
 [View the research templates](https://hauoraaotearoa.sharepoint.com/:f:/r/sites/1001713/Design%20artefacts/01_Templates/Research%20templates?d=wc42a8c91a82b4961bd84d0104967d7d4&csf=1&web=)
 
 ### Ways to run the test
@@ -102,7 +100,7 @@ The standards are grouped into five stages:
 | 3.3 | Ask people to do each task **without help**. Only step in if they're stuck and can't move on. Record whether they:<br>• completed it (pass)<br>• completed it with help (pass with help)<br>• didn't complete it (fail)<br><br>If a failure was caused by the test itself, such as a broken test environment or wrong test data, don't count it. Fix the problem and rerun the task, with the same participant or another one. | MUST |
 | 3.4 | Record the **time** and **number of clicks** each person takes to finish each task, and note any wrong turns or retries, for example going to the wrong screen or starting again. You don't need to do this during the session. If you record it, you can count afterward. Before testing, time an experienced user doing each task and count their clicks, so you can compare. | SHOULD |
 | 3.5 | For tasks you want to know more about, such as **critical tasks**, ask the **ease question** straight after. Finishing a task doesn't always mean it was easy.<br><br>**Ease:** "How easy or difficult was [that task]?"<br>1. Very difficult<br>2. Difficult<br>3. Neither easy nor difficult<br>4. Easy<br>5. Very easy | SHOULD |
-| 3.6 | If you need more context about a rating, ask **"Why did you give that rating?"** | SHOULD |
+| 3.6 | If a rating needs explanation or would help the team understand the result, ask "**"Why did you give that rating?"** | SHOULD |
 | 3.7 | At the end of the test, ask the **overall ease question**. Keep the question and scale as written, so results can be compared.<br><br>**Overall ease:** "Overall, how easy or difficult was [the product or service] to use?"<br>1. Very difficult<br>2. Difficult<br>3. Neither easy nor difficult<br>4. Easy<br>5. Very easy | MUST |
 | 3.8 | Ask the **satisfaction question**. Keep the question and scale as written.<br><br>**Satisfaction:** "Overall, how satisfied are you with your experience?"<br>1. Very dissatisfied<br>2. Dissatisfied<br>3. Neither satisfied nor dissatisfied<br>4. Satisfied<br>5. Very satisfied | MUST |
 | 3.9 | If the product replaces something, ask the **comparison question**. Keep the question and scale as written.<br><br>**Comparison:** "Compared with [what you used before], how would you rate this?"<br>1. Much worse<br>2. Worse<br>3. About the same<br>4. Better<br>5. Much better | SHOULD |
@@ -124,6 +122,8 @@ The standards are grouped into five stages:
 | # | Standard | Level |
 |---|---|---|
 | 5.1 | Review findings with the project team and agree what will be fixed before go-live. | MUST |
+| 5.2 | Record decisions for issues that won't be fixed, including any known risks. | SHOULD |
+| 5.3 | Share findings that affect training, support material or rollout activities with the appropriate teams. | SHOULD |
 
 
 ---
