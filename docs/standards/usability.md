@@ -1,12 +1,22 @@
 ---
-title: Usability
-description: The Health NZ usability standards, set out in the order you do the work. Includes the questions to ask and AI prompts to create or update a usability test script.
+title: Usability testing
+description: The Health NZ usability testing standards. Provides a consistent way to measure, report and act on usability findings, including the questions to ask and AI prompts to create or update a usability test script.
 ---
 
-# Usability standards
+# Usability testing standards
 
 > **Work in progress**
 > We're working with the Health NZ Standards team on how to apply the ISO 9241 international usability standards.
+
+
+### Scope of these standards
+
+These standards help teams assess usability consistently. They provide a common set of measures, questions and reporting requirements so that usability findings can be compared, understood and acted on across Health NZ.
+
+This page covers usability testing. It is a validation method used to assess whether a design works for its intended users. It does not cover discovery research, which is about understanding people's needs before designing a solution.
+
+Supporting research and testing templates including recruitment, participant communications, consent, scheduling and reimbursement, are covered separately in the Digital Health Strategy & Design research templates on SharePoint.[View the research templates](https://hauoraaotearoa.sharepoint.com/:f:/r/sites/1001713/Design%20artefacts/01_Templates/Research%20templates?d=wc42a8c91a82b4961bd84d0104967d7d4&csf=1&web=)
+
 
 ## The basics
 
@@ -36,15 +46,6 @@ We can measure usability in three ways:
 | Satisfaction | **Does it meet people’s needs and expectations?** | Satisfaction rating | Most people are satisfied (average rating of 3 or above out of 5) |
 
 ---
-
-## Before you start
-
-**This page covers usability testing.** It’s a **validation** method: checking that your design works (the solution space). It doesn’t cover discovery research, which is about understanding people’s needs before you design (the problem space).
-
-### Scope of these standards
-
-These standards provide a consistent way to assess, measure, report and act on usability findings. They do not cover supporting research activities, such as recruitment, participant communications, consent, scheduling and reimbursement. These are covered separately in the Digital Health Strategy & Design research templates on SharePoint.
-[View the research templates](https://hauoraaotearoa.sharepoint.com/:f:/r/sites/1001713/Design%20artefacts/01_Templates/Research%20templates?d=wc42a8c91a82b4961bd84d0104967d7d4&csf=1&web=)
 
 ### Ways to run the test
 
