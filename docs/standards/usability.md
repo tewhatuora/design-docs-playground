@@ -52,7 +52,7 @@ They do not cover supporting research activities, such as recruitment, participa
 
 These standards focus on **testing with a facilitator** (moderated testing), where someone runs each session in person or on a video call.
 
-Most also apply when people test on their own (unmoderated testing), but this needs a specialist online tool. Ask the Digital Health Strategy & Design team which tools are approved.
+They can also apply to unmoderated testing (when people test on their own), but this needs a specialist online tool. Ask the Digital Health Strategy & Design team which tools are approved.
 
 ---
 
