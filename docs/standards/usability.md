@@ -85,7 +85,7 @@ The standards are grouped into five stages:
 | 2.3 | Recruit at least **5 participants** for each round of testing. | SHOULD |
 | 2.4 | Turn each task from 1.3 into a **real situation or scenario** that doesn't give away the answer. Describe the situation, not the steps, and don't use on-screen labels. For example:<br><br>**Add a case note**<br>Instead of: "Click Add case note"<br>Try: "You've just spoken to someone on the phone about their case. Record what you discussed."<br><br>**Find a case**<br>Instead of: "Use the search bar to find case 12345"<br>Try: "Someone calls and gives you their name. Find their details."<br><br>**Escalate a high-risk case**<br>Instead of: "Click the Escalate button"<br>Try: "You're worried someone on your caseload is at risk. Let your team leader know." | MUST |
 | 2.5 | If you can, test the **same tasks on the current system first** to get a baseline. | SHOULD |
-| 2.6 | Set up **test data**. Never use real patient or personal information. Ask your delivery or test team for a test environment. | MUST |
+| 2.6 | Never use real patient or personal information. Use realistic fictional or test data where needed. | MUST |
 
 ### 3. Run the test (your test script)
 
