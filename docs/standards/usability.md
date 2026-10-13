@@ -70,7 +70,7 @@ The standards are grouped into five stages:
 |---|---|---|
 | 1.1 | Identify **who will use it** (the real users). Use specific role names, job titles or user groups where possible. | MUST |
 | 1.2 | Describe **where they'll use it**, for example in the office, remotely, in front of consumers, on a laptop. | SHOULD |
-| 1.3 | List the top tasks to test:<br>• the **tasks people do most often** (high frequency), for example logging in, finding a case or adding a case note<br>• the **critical tasks**, where a mistake could cause harm or serious problems, even if they're not high frequency, for example escalating a high-risk case | MUST |
+| 1.3 | List the tasks to test based on the goals of the usability testing. Prioritise tasks that help answer the key questions you want to learn about. | MUST |
 | 1.4 | If it **replaces a system or process**, note what people use now, for example one or more old systems, a spreadsheet or a paper form. | SHOULD |
 | 1.5 | **Define success criteria** for the tasks and ratings. For example:<br>• at least 80% of participants complete top tasks without help<br>• an average satisfaction rating of 3 or above | MUST |
 | 1.6 | Plan to test **before go-live**. | MUST |
