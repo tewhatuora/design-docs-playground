@@ -167,19 +167,6 @@ A deliberately short five-size scale is far easier to keep consistent. If you fi
 
 [image coming soon]
 
----
-
-## Check your app with artificial intelligence
-
-Copy this prompt into Copilot or another artificial intelligence tool and attach screenshots, a design file or code. If your tool can't open web pages, paste this page's content in as well.
-
-```
-Check the attached app against the Health NZ branding standards for workforce apps:
-https://tewhatuora.github.io/design-docs-playground/standards/branding/
-
-For each standard that isn't met, give the standard number, what's wrong,
-and how to fix it. List MUST issues first, then SHOULD. Keep it short.
-```
 
 ---
 
