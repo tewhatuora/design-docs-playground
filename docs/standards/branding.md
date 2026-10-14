@@ -54,6 +54,8 @@ The standards are grouped into five sections:
 | 1.5 | Give every page a clear page title, the text in the browser tab: [Page or task name] \| [App name] \| Health New Zealand <br><br>For example: Sign in \| Case management system \| Health New Zealand<br><br>To be confirmed. | SHOULD |
 | 1.6 | Use a short, readable web address (URL) that describes the app, not a string of random characters.<br><br>To be confirmed. | SHOULD |
 
+---
+
 ### 2. Colour palette
 
 | Name | Hex | Use for |
@@ -79,6 +81,8 @@ The standards are grouped into five sections:
 | 2.5 | Use light grey for the page background and white for cards and panels. | SHOULD |
 | 2.6 | Use only the colours on this page. Don't add your own. | MUST |
 
+---
+
 ### 3. Status colours
 
 | #   | Standard | Level |
@@ -96,6 +100,8 @@ The standards are grouped into five sections:
 | Success (Interim) | Pale green | <span class="swatch" style="background:#EDF9F0"></span> `#EDF9F0` | Dark green | <span class="swatch" style="background:#519965"></span> `#519965` |
 
 **Interim:** amber will move to a more orange tone and green to a stronger green.
+
+---
 
 ### 4. Accessible colour combinations
 
@@ -127,6 +133,8 @@ Meeting these colour standards doesn't make an app fully accessible, but it's a 
 
 - Dark aqua on light grey
 - White on light grey
+
+---
 
 ### 5. Typography
 
