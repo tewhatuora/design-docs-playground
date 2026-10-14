@@ -51,7 +51,7 @@ The standards are grouped into five sections:
 | 1.2 | Use the official logo files from Brandkit [link to come]. Don't recolour, stretch or crop the logo. | MUST |
 | 1.3 | Show the app name next to the logo, so people know which app they're in.<br><br>To be confirmed. | SHOULD |
 | 1.4 | Show the Health NZ favicon, the small icon in the browser tab and bookmarks. | MUST |
-| 1.5 | Give every page a clear page title, the text in the browser tab: [Page or task name] \| [App name] \| Health New Zealand.<br><br>For example: Sign in \| Case management system \| Health New Zealand<br><br>To be confirmed. | SHOULD |
+| 1.5 | Give every page a clear page title, the text in the browser tab: [Page or task name] \| [App name] \| Health New Zealand <br><br>For example: Sign in \| Case management system \| Health New Zealand<br><br>To be confirmed. | SHOULD |
 | 1.6 | Use a short, readable web address (URL) that describes the app, not a string of random characters.<br><br>To be confirmed. | SHOULD |
 
 ### 2. Colour palette
