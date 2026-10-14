@@ -58,15 +58,15 @@ The standards are grouped into five sections:
 
 | Name | Hex | Use for |
 | --- | --- | --- |
-| Emerald | `#004D51` | Main colour; primary buttons; secondary button outlines and text; icons |
-| Dark emerald | `#003D41` | Highlight tiles |
-| Navigation bar gradient | `#004347` to `#00757B`<br><br>In code: `linear-gradient(90deg, #004347 0%, #004347 44%, #00757B 100%)` | Navigation bar only |
-| Navigation green | `#004347` | Navigation bar, if a gradient isn't possible |
-| Dark aqua | `#00838A` | Links |
-| Black | `#000000` | Text |
-| Dark grey | `#595959` | Captions and helper text |
-| Light grey | `#F0F3F8` | Page background |
-| White | `#FFFFFF` | Cards and panels; text on emerald and the navigation bar |
+| Emerald | <span class="swatch" style="background:#004D51"></span> `#004D51` | Main colour; primary buttons; secondary button outlines and text; icons |
+| Dark emerald | <span class="swatch" style="background:#003D41"></span> `#003D41` | Highlight tiles |
+| Navigation bar gradient | <span class="swatch" style="background:#004347"></span> `#004347` to <span class="swatch" style="background:#00757B"></span> `#00757B`<br><br>In code: `linear-gradient(90deg, #004347 0%, #004347 44%, #00757B 100%)` | Navigation bar only |
+| Navigation green | <span class="swatch" style="background:#004347"></span> `#004347` | Navigation bar, if a gradient isn't possible |
+| Dark aqua | <span class="swatch" style="background:#00838A"></span> `#00838A` | Links |
+| Black | <span class="swatch" style="background:#000000"></span> `#000000` | Text |
+| Dark grey | <span class="swatch" style="background:#595959"></span> `#595959` | Captions and helper text |
+| Light grey | <span class="swatch" style="background:#F0F3F8"></span> `#F0F3F8` | Page background |
+| White | <span class="swatch" style="background:#FFFFFF"></span> `#FFFFFF` | Cards and panels; text on emerald and the navigation bar |
 
 **Colour standards**
 
@@ -90,10 +90,10 @@ The standards are grouped into five sections:
 
 | Status | Background | Hex | Icon | Hex |
 | --- | --- | --- | --- | --- |
-| Error | Pale red | `#FFDADA` | Dark red | `#AB0000` |
-| Warning (Interim) | Pale amber | `#FFF4CB` | Amber | `#F6B424` |
-| Information | Pale blue | `#BCD9ED` | Dark blue | `#005C99` |
-| Success (Interim) | Pale green | `#EDF9F0` | Dark green | `#519965` |
+| Error | Pale red | <span class="swatch" style="background:#FFDADA"></span> `#FFDADA` | Dark red | <span class="swatch" style="background:#AB0000"></span> `#AB0000` |
+| Warning (Interim) | Pale amber | <span class="swatch" style="background:#FFF4CB"></span> `#FFF4CB` | Amber | <span class="swatch" style="background:#F6B424"></span> `#F6B424` |
+| Information | Pale blue | <span class="swatch" style="background:#BCD9ED"></span> `#BCD9ED` | Dark blue | <span class="swatch" style="background:#005C99"></span> `#005C99` |
+| Success (Interim) | Pale green | <span class="swatch" style="background:#EDF9F0"></span> `#EDF9F0` | Dark green | <span class="swatch" style="background:#519965"></span> `#519965` |
 
 **Interim:** amber will move to a more orange tone and green to a stronger green.
 
@@ -169,11 +169,10 @@ Copy this prompt into Copilot or another artificial intelligence tool and attach
 Check the attached app against the Health NZ branding standards for workforce apps:
 https://tewhatuora.github.io/design-docs-playground/standards/branding/
 
----
-
-**Key contact:** Rosie Percival, Senior User Experience (UX) Design, Digital Health Strategy and Design.
-
-
 For each standard that isn't met, give the standard number, what's wrong,
 and how to fix it. List MUST issues first, then SHOULD. Keep it short.
 ```
+
+---
+
+**Key contact:** Rosie Percival, Senior User Experience (UX) Design, Digital Health Strategy and Design.
