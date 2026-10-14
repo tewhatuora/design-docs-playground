@@ -4,13 +4,11 @@ description: The Health NZ branding standards for workforce apps. The minimum ev
 
 # Branding standards for workforce apps
 
-> **Pending endorsement from the Creative and Brand team.** Items marked **Interim** are in use now but will be updated.
+> **Pending endorsement from the Creative and Brand team.
 
 These standards are for anyone building or changing a workforce app. They're a simplified version of the Health Professionals website branding.
 
 For a quick visual version, see the [Workforce apps brand guide](https://www.figma.com/make/UhNGqaKyEqqXzzFeqruUX5/Workforce-app-branding-guide?t=V3GGBuMyQrLHK2cG-0). Password: designops
-
-**Key contact:** Rosie Percival, User Experience (UX) Design, Digital Health Strategy and Design.
 
 ## About branding
 
@@ -170,6 +168,11 @@ Copy this prompt into Copilot or another artificial intelligence tool and attach
 ```
 Check the attached app against the Health NZ branding standards for workforce apps:
 https://tewhatuora.github.io/design-docs-playground/standards/branding/
+
+---
+
+**Key contact:** Rosie Percival, Senior User Experience (UX) Design, Digital Health Strategy and Design.
+
 
 For each standard that isn't met, give the standard number, what's wrong,
 and how to fix it. List MUST issues first, then SHOULD. Keep it short.
