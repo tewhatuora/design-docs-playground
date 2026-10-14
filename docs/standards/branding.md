@@ -4,7 +4,7 @@ description: The Health NZ branding standards for workforce apps. The minimum ev
 
 # Branding standards for workforce apps
 
-> **Pending endorsement from the Creative and Brand team.
+> Pending endorsement from the Creative and Brand team.
 
 These standards are for anyone building or changing a workforce app. They're a simplified version of the Health Professionals website branding.
 
