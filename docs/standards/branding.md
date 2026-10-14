@@ -2,7 +2,7 @@
 description: The Health NZ branding standards for workforce apps. The minimum every workforce app needs to look like Health NZ, with a prompt to check your app using AI.
 ---
 
-# Branding standards for workforce apps
+# Branding for workforce apps
 
 > Pending endorsement from the Creative and Brand team.
 
