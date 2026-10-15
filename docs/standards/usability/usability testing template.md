@@ -256,6 +256,4 @@ A task meets its success criteria if most people complete it without help, unles
 
 ## References
 
-- [Thinking Aloud: The #1 Usability Tool](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/), Jakob Nielsen, Nielsen Norman Group (2012)
 - [Using moderated usability testing](https://www.gov.uk/service-manual/user-research/using-moderated-usability-testing), GOV.UK Service Manual
-- [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](https://pearson.com/en-au/subject-catalog/p/rocket-surgery-made-easy-the-do-it-yourself-guide-to-finding-and-fixing-usability-problems/P200000009209/9780321702845), Steve Krug
