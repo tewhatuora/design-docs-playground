@@ -65,7 +65,7 @@ The standards are grouped into five stages:
 
 | #   | Standard | Level |
 | --- | --- | --- |
-| 1.0 | Review any available research, such as analytics, feedback, discovery findings, surveys or previous usability testing, to help identify what to test and what success looks like. | MUST |
+| 1.0 | Review the overarching goals of the programme or project and the problem it's solving, so you understand the big picture. Then review any available research, such as analytics, feedback, discovery findings, surveys or previous usability testing, to help identify what to test and what success looks like. | MUST |
 | 1.1 | Identify who will use it (the real users). Use specific role names, job titles or user groups where possible. | MUST |
 | 1.2 | Describe where they'll use it, for example in the office, remotely, in front of consumers, on a laptop. | SHOULD |
 | 1.3 | List the tasks to test based on the goals of the usability testing. Prioritise tasks that help answer the key questions you want to learn about. | MUST |
