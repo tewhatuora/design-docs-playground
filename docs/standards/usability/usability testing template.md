@@ -5,7 +5,7 @@ description: A template for planning, running and reporting usability testing wi
 
 # Usability testing template
 
-The best way to know if something works is to watch someone use it. Even a few sessions with real users asking them to think out loud will show you problems you wouldn't spot on your own.
+The best way to know if something works is to watch someone use it. Even a few sessions with real users asking them to think out loud will show you problems you'd never spot on your own.
 
 **This template is for testing with Health NZ staff and health professionals only** and includes all the MUSTs and the SHOULDs from the usability testing standards. Testing with consumers or the public needs a more robust process, including information sheets, signed consent and koha.
 
@@ -28,32 +28,25 @@ Copy this template into a Word document and fill it in as you go. Replace anythi
 **Note-taker (optional):** [name]  
 **Findings needed by:** [date, early enough to change the design before release]
 
-### Overall goals of programme
-
+**Overall goals of programme**  
 [The overarching goals of the programme or project and/or the problem it's solving.]
 
-### What we already know
-
+**What we already know**  
 [Any available research, such as analytics, feedback, discovery findings, surveys or previous usability testing.]
 
-### What we want to learn
-
+**What we want to learn**  
 [A few questions, for example: "Can staff find and update a roster change without help?"]
 
-### Who we're testing with
-
+**Who we're testing with**  
 [Job title, where they work and how they use the product. For example: "nurse unit managers in medical wards who approve rosters weekly". Aim for 3-5 people.]
 
-### Where they use it
-
+**Where they use it**  
 [For example: at a desk, on the ward, on a laptop, on a phone.]
 
-### What they use now
-
+**What they use now**  
 [If it replaces a system or process, note what people use now, for example one or more old systems, a spreadsheet or a paper form.]
 
-### How we'll reach users
-
+**How we'll reach users**  
 [For example: through the project's super users, a manager, or a user group. When you invite them, say whether it's online or in person. For online sessions, offer help with the technology if they're not confident with it, such as joining the call or sharing their screen.]
 
 ### Tasks, scenarios and success criteria
@@ -252,8 +245,3 @@ A task meets its success criteria if most people complete it without help, unles
 - [change and training team, if anything affects training or rollout]
 - [participants]
 
----
-
-## References
-
-- [Using moderated usability testing](https://www.gov.uk/service-manual/user-research/using-moderated-usability-testing), GOV.UK Service Manual
