@@ -87,8 +87,8 @@ These standards are in the order you'll run them in each session. The template's
 | --- | --- | --- |
 | 2.1 | Welcome the participant. Explain that you're testing the product, not them, and that there are no right or wrong answers. Ask them to think out loud as they go, and tell them they can stop or take a break at any time. | MUST |
 | 2.2 | Get each participant's informed consent before you start recording, using what the team agreed in 1.20. Recording is optional. Record their consent in writing or on the recording. | MUST |
-| 2.3 | Ask for consent to add the participant's name to your programme's engagement catalogue. | COULD |
-| 2.4 | Start with a few warm-up questions to help the participant relax and give you context, such as their role and how long they've been in it. Don't spend so long that the session becomes discovery research. You can also ask about their experience with the product (new to it, some experience, or experienced) and how often they use it (first time or rarely, sometimes, or most days). | SHOULD |
+| 2.3 | If you have an engagement catalogue, ask for consent to add the participant's name | COULD |
+| 2.4 | Start with a few warm-up questions to help the participant relax and give you context, such as their role, how long they've been in it, what a typical day/week looks like. You can also ask about their experience with the product (new vs experienced) and how often they use it (first time or rarely, sometimes, or most days). Don't spend so long that the session becomes discovery research. | SHOULD |
 | 2.5 | Ask people to do each task without help. Only step in if they're stuck and can't move on. Record whether they completed it (pass), completed it with help (pass with help) or didn't complete it (fail). | MUST |
 | 2.6 | After a task, ask "Was that easy, OK or hard?" and "Why?" This is useful for critical tasks, as finishing a task doesn't always mean it was easy. | COULD |
 | 2.7 | Record the time and number of clicks for each task, and any wrong turns or retries. You can count these afterwards from the recording. | COULD |
@@ -104,9 +104,9 @@ Use the template's one-page findings summary to report results and record what y
 
 | # | Standard | Level |
 | --- | --- | --- |
-| 3.1 | Say how many people you tested with and their roles. | MUST |
-| 3.2 | Check your results against each task's success criteria (1.15) and say whether each one was met. Report counts, for example "2 of 3 passed", because the numbers are small. | MUST |
-| 3.3 | Report what you saw and what people said, in their own words. Include ratings only if you used them. Keep participants' names out of the findings summary. | SHOULD |
+| 3.1 | Record how many people you tested with and their roles. | MUST |
+| 3.2 | Check your results against each task's success criteria (1.15) and record whether each one was met. Report counts, for example "2 of 3 passed", because the numbers are small. | MUST |
+| 3.3 | Record what you saw and what people said, in their own words. Include ratings only if you used them. Keep participants' names out of the findings summary. | SHOULD |
 | 3.4 | For each issue, note how many people it affected and rate its severity as high, medium or low. | COULD |
 | 3.5 | Note what's working, not just what went wrong. | COULD |
 | 3.6 | Review findings with the project team and agree what you'll do about each issue. | MUST |
