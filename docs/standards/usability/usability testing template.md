@@ -5,8 +5,6 @@ description: A template for planning, running and reporting usability testing wi
 
 # Usability testing template
 
-The best way to know if something works is to watch someone use it. Even a few sessions with real users asking them to think out loud will show you problems you'd never spot on your own.
-
 **This template is for testing with Health NZ staff and health professionals only** and includes all the MUSTs and the SHOULDs from the usability testing standards. Testing with consumers or the public needs a more robust process, including information sheets, signed consent and koha.
 
 ## How to use this template
