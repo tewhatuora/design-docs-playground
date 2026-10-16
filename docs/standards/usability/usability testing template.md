@@ -36,7 +36,9 @@ Copy this template into a Word document and fill it in as you go. Replace anythi
 [A few questions, for example: "Can staff find and update a roster change without help?"]
 
 **Who we're testing with**  
-[Job title, where they work and how they use the product. For example: "nurse unit managers in medical wards who approve rosters weekly". Aim for 3-5 people.]
+[For example: "nurse unit managers in medical wards who approve rosters weekly". 
+
+Aim for 3-5 people. Try to include a mix: new and experienced users, people less confident with computers, people with disabilities or impairments, and Māori and Pacific participants. One person can cover several ]
 
 **Where they use it**  
 [For example: at a desk, on the ward, on a laptop, on a phone.]
