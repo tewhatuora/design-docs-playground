@@ -143,7 +143,7 @@ Meeting these colour standards doesn't make an app fully accessible, but it's a 
 | #   | Standard | Level |
 | --- | --- | --- |
 | 5.1 | Use one sans-serif font for the whole app. | MUST |
-| 5.2 | Use Public Sans if your platform allows it. If not, use Arial. | SHOULD |
+| 5.2 | Use Public Sans if your platform allows it. Otherwise, use the platform's default sans serif. | SHOULD |
 | 5.3 | Make headings, body text, labels and form entries black. | MUST |
 | 5.4 | Make captions and helper text dark grey. | SHOULD |
 | 5.5 | Underline links, in dark aqua if your platform allows it. Only put dark aqua links on white, not light grey. | SHOULD |
