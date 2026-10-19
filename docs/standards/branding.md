@@ -10,6 +10,8 @@ These standards are for anyone building or changing a workforce app. They're a s
 
 For a quick visual version, see the [Workforce apps brand guide](https://www.figma.com/make/UhNGqaKyEqqXzzFeqruUX5/Workforce-app-branding-guide?t=V3GGBuMyQrLHK2cG-0). Password: designops
 
+For the the source markdown file of below content see: [https://github.com/tewhatuora/design-docs-playground/blob/main/docs/standards/branding.md](https://github.com/tewhatuora/design-docs-playground/blob/main/docs/standards/branding.md)
+
 ## About branding
 
 Our brand is more than our name and logo. It's every interaction people have with Health NZ, including the workforce apps used by our health professionals.
