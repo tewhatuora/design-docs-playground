@@ -46,7 +46,3 @@ Accessibility needs to be considered at every stage of a project, starting from 
 - [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/) (World Wide Web Consortium): the guidelines both standards build on
 - [What is web accessibility?](https://govtnz.github.io/web-a11y-guidance/ka/fundamental-concepts-in-web-a11y/what-is-web-a11y) (Web Accessibility Guide, Government Digital Delivery Agency): the definition above, with more detail
 - [EN 301 549 version 4.1.1](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/04.01.01_60/en_301549v040101p.pdf) (European Telecommunications Standards Institute, PDF): the detailed requirements
-
----
-
-**Key contact:** Rosie Percival, Senior User Experience (UX) Design, Digital Health Strategy and Design.
