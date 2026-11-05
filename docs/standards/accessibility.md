@@ -26,7 +26,7 @@ For a quick overview, watch the [4-minute introduction to web accessibility](htt
 
 The current standard is the Web Accessibility Standard 1.2, in place since March 2025. It's based on the Web Content Accessibility Guidelines (WCAG) 2.2, the international guidelines for making web content accessible, and only covers websites.
 
-The New Zealand Government is replacing it with a new Digital Accessibility Standard, created *"to make sure that accessibility is considered for all digital technology, not just websites."* The draft went out for consultation from 13 July to 7 August 2026, and the final version is expected in early 2027.
+The [Government Digital Delivery Agency (GDDA)](https://www.publicservice.govt.nz/about-the-commission/government-digital-delivery-agency) is replacing it with a new Digital Accessibility Standard, created *"to make sure that accessibility is considered for all digital technology, not just websites."* The draft went out for consultation from 13 July to 7 August 2026, and the final version is expected in early 2027.
 
 The draft says *"Each ICT [information and communication technology] Product and Service must meet"* EN 301 549 version 4.1.1, a European accessibility standard. That includes web pages, documents, non-web software (including mobile apps) and hardware. It will apply to new products from the start date, with 1 to 5 years for existing products to catch up.
 
@@ -40,9 +40,19 @@ Accessibility needs to be considered at every stage of a project, starting from 
 
 ## References
 
-- [Digital Accessibility Standard](https://www.digital.govt.nz/das) (digital.govt.nz): what's changing and when
-- [Draft Digital Accessibility Standard](https://www.digital.govt.nz/standards-and-guidance/nz-government-web-standards/digital-accessibility-standard/draft-das) (digital.govt.nz): the full draft
-- [Web Accessibility Standard 1.2](https://digital.govt.nz/standards-and-guidance/nz-government-web-standards/web-accessibility-standard-1-2/about-the-web-accessibility-standard) (digital.govt.nz): the current standard for websites
-- [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/) (World Wide Web Consortium): the guidelines both standards build on
-- [What is web accessibility?](https://govtnz.github.io/web-a11y-guidance/ka/fundamental-concepts-in-web-a11y/what-is-web-a11y) (Web Accessibility Guide, Government Digital Delivery Agency): the definition above, with more detail
-- [EN 301 549 version 4.1.1](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/04.01.01_60/en_301549v040101p.pdf) (European Telecommunications Standards Institute, PDF): the detailed requirements
+### The new standard
+
+- [Digital Accessibility Standard](https://www.digital.govt.nz/das) (GDDA): what's changing and when
+- [Draft Digital Accessibility Standard](https://www.digital.govt.nz/standards-and-guidance/nz-government-web-standards/digital-accessibility-standard/draft-das) (GDDA): the full draft
+- [EN 301 549 version 4.1.1: Accessibility requirements for ICT products and services](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/04.01.01_60/en_301549v040101p.pdf) (European Telecommunications Standards Institute, PDF): the detailed requirements in the draft standard
+
+### The current standard
+
+- [Web Accessibility Standard 1.2](https://digital.govt.nz/standards-and-guidance/nz-government-web-standards/web-accessibility-standard-1-2/about-the-web-accessibility-standard) (GDDA): the current standard for websites
+- [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/) (World Wide Web Consortium): the international guidelines the current and new standards build on
+
+### Learn more
+
+- [Web Accessibility Guide](https://govtnz.github.io/web-a11y-guidance/) (GDDA): practical accessibility guidance for anyone delivering digital content in New Zealand
+- [What is web accessibility?](https://govtnz.github.io/web-a11y-guidance/ka/fundamental-concepts-in-web-a11y/what-is-web-a11y) (GDDA): the definition used on this page
+- [Video Introduction to Web Accessibility and W3C Standards](https://www.w3.org/WAI/videos/standards-and-benefits/) (World Wide Web Consortium): a 4-minute overview of web accessibility
