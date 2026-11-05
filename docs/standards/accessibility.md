@@ -40,18 +40,18 @@ Accessibility needs to be considered at every stage of a project, starting from 
 
 ## References
 
-**The new standard**
+### The new standard
 
 - [Digital Accessibility Standard](https://www.digital.govt.nz/das) (GDDA): what's changing and when
 - [Draft Digital Accessibility Standard](https://www.digital.govt.nz/standards-and-guidance/nz-government-web-standards/digital-accessibility-standard/draft-das) (GDDA): the full draft
 - [EN 301 549 version 4.1.1: Accessibility requirements for ICT products and services](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/04.01.01_60/en_301549v040101p.pdf) (European Telecommunications Standards Institute, PDF): the detailed requirements in the draft standard
 
-**The current standard**
+### The current standard
 
 - [Web Accessibility Standard 1.2](https://digital.govt.nz/standards-and-guidance/nz-government-web-standards/web-accessibility-standard-1-2/about-the-web-accessibility-standard) (GDDA): the current standard for websites
 - [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/) (World Wide Web Consortium): the international guidelines the current and new standards build on
 
-**Learn more**
+### Learn more
 
 - [Web Accessibility Guide](https://govtnz.github.io/web-a11y-guidance/) (GDDA): practical accessibility guidance for anyone delivering digital content in New Zealand
 - [What is web accessibility?](https://govtnz.github.io/web-a11y-guidance/ka/fundamental-concepts-in-web-a11y/what-is-web-a11y) (GDDA): the definition used on this page
