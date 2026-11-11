@@ -4,7 +4,7 @@ description: Logo and favicon files for Health NZ workforce apps, with previews 
 
 # Assets
 
-The logos and favicon files for Health NZ workforce apps. Don not recolour, stretch or crop them.
+The logos and favicon files for Health NZ workforce apps. Do not recolour, stretch or crop them.
 
 ## Health New Zealand logo
 
