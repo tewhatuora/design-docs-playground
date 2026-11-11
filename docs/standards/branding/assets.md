@@ -4,7 +4,7 @@ description: Logo and favicon files for Health NZ workforce apps, with previews 
 
 # Assets
 
-The logo and favicon files for Health NZ workforce apps. Use them as they are. Don't recolour, stretch or crop them.
+The logos and favicon files for Health NZ workforce apps. Don not recolour, stretch or crop them.
 
 ## Health New Zealand logo
 
@@ -14,7 +14,7 @@ The logo and favicon files for Health NZ workforce apps. Use them as they are. D
 <img src="HealthNZ-logo-light.svg" alt="Health NZ logo, light version for a dark navigation bar" width="240" style="display: block;">
 </div>
 
-*The logo is on a transparent background. The dark teal is just for this preview.*
+*The logo is on a transparent background. The dark background is just for preview purposes.*
 
 <a href="HealthNZ-logo-light.svg" download>Download the light logo for dark navigation bar (SVG)</a>
 
