@@ -2,7 +2,7 @@
 description: Logo and favicon files for Health NZ workforce apps, with previews and links to download them.
 ---
 
-# Workforce app assets
+# Assets
 
 The logo and favicon files for Health NZ workforce apps. Use them as they are. Don't recolour, stretch or crop them.
 
